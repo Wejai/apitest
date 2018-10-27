@@ -1,0 +1,7 @@
+E:\NodeJS\POC>apic login --username ********* --password ******* --server eu.apiconnect.ibmcloud.com
+Logged into eu.apiconnect.ibmcloud.com successfully
+
+
+E:\NodeJS\POC>apic publish senthilpoc_1.0.0.yaml --catalog sb --organization contactsenthilityahoocom-dev --server eu.apiconnect.ibmcloud.com
+Staged senthilpoc_1.0.0.yaml to contactsenthilityahoocom-dev:sb [senthilpoc:1.0.0]
+Published senthilpoc_1.0.0.yaml to contactsenthilityahoocom-dev:sb [senthilpoc:1.0.0]
